@@ -2,8 +2,8 @@
 
 - **Team Name:** Kodair (Farwalker3)
 - **Payment Details:**
-  - **DOT**: [POLKADOT_ADDRESS_PENDING — will be added before marking ready for review]
-  - **Payment**: [ASSETHUB_ADDRESS_PENDING] (USDC)
+  - **DOT**: 12UHfCFCtErJuovMVjJ5YFsYBaVudKRV4Jn6EfZFFP8wJkpW
+  - **Payment**: 12UHfCFCtErJuovMVjJ5YFsYBaVudKRV4Jn6EfZFFP8wJkpW (USDC on AssetHub)
 - **Level:** 1
 
 ## Project Overview :page_facing_up:
